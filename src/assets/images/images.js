@@ -1,0 +1,6 @@
+export {default as harshivDp} from "../images/hdp.jpg"
+export {default as harshivHackPic } from "../images/harshiv_h.jpg"
+export {default as harshivDp} from "../images/hdp.jpg"
+export {default as harshivHackPic } from "../images/harshiv_h.jpg"
+export {default as harshivDp} from "../images/hdp.jpg"
+export {default as harshivHackPic } from "../images/harshiv_h.jpg"

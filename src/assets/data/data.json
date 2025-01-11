@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Harshiv Patel",
+        "image": "src/assets/images/hdp.jpg"
+    },
+    {
+        "id": 2,
+        "name" : "Nishal Shah",
+        "image": "src/assets/images/ndp.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Dipanshu Bharatia",
+        "image": "src/assets/images/ddp.jpeg"
+    }
+]
