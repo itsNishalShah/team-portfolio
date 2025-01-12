@@ -1,5 +1,5 @@
 import React from "react";
-import data from "src/assets/data/data.json"
+import data from "../assets/data/data.json"
 export const Members = () => {
     return <>
         <div className="block w-[100%] h-[200px] md:pt-[20px] lg:pt-[20px] text-white font-customFont">

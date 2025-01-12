@@ -27,7 +27,7 @@ function App() {
         </div>
       </div>
       {/* Achievements Section */}
-      <div className="bg-black w-full h-full relative">
+      <div className="bg-black w-full h-auto relative">
         <Achievements />
       </div>
     </>
